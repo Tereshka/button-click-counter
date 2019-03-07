@@ -1,0 +1,16 @@
+.click-counter {
+  width: 200px;
+  height: 50px;
+  outline: none;
+  border: 3px solid #157974;
+  border-radius: 10px;
+  background-color: #f08080;
+  color: #741f1f;
+  font-weight: bold;
+}
+
+.click-counter:hover {
+  border: 3px solid #96cac8;
+  background-color: #ee4343;
+  color: #ffffff;
+}
